@@ -1,0 +1,63 @@
+.btn2 {
+  padding-right: 47px;
+  padding-left: 47px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 13px;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(235, 235, 235);
+}
+
+.h222 {
+  margin-left: 54px;
+}
+
+.btn-1 {
+  display: flex;
+  padding-left: 8px;
+  margin-left: 54px;
+}
+
+.form select {
+  width: 100%;
+  padding: 6px;
+}
+
+.form input {
+  width: 500px;
+  padding: 6px;
+}
+
+.form {
+  margin-left: 54px;
+}
+
+.IMG1 {
+  margin-left: 40px;
+}
+.IMG1 iframe {
+  width: 560px;
+  height: 405px;
+
+  border-radius: 10px;
+}
+
+.App {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 3%;
+
+}
+
+.Next-botton {
+  margin-left: 67%;
+  padding: 6px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: none;
+  border-radius: 6px;
+  background-color: #C7A878;
+  ;
+  font-size: 20px;
+}

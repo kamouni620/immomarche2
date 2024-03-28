@@ -1,0 +1,97 @@
+
+input.a {
+    height: 25px;
+}
+
+.App2{
+    margin-left: 10%;
+}
+
+.b-DH {
+    background-color: white;
+    border: 0.1px solid;
+    height: 30px;
+}
+
+.marg {
+    margin-left: 90px;
+}
+
+.linge1 {
+    display: flex;
+}
+
+.form2 {
+    display: flex;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.form2 select {
+    margin-top: 18px;
+    width: 200px;
+    height: 30px;
+}
+
+.box1 {
+    display: flex;
+    margin-top: 50px;
+    width: 30px;
+    height: 20px;
+
+}
+.box0 {
+    margin-left: 250px;
+}
+
+.box1 button {
+    margin-top: -20px;
+    width: 20px;
+    height: 30px;
+    background-color: white;
+    border: solid 0.1px;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.box1 h2 {
+    margin-top: -20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#box-id{
+  margin-left: 222px;
+  
+}
+
+.Next-bott2 {
+    margin-top:6%;
+    margin-left:64%;
+    padding: 6px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgba(199, 168, 120, 1);
+    font-size: 20px;
+   
+  }
+  .Next-bo2 {
+    padding: 6px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: none;
+    margin-top: 20px;
+    background-color: white;
+    font-size: 20px;
+  }
+  .Next-bo2-imgs{
+    width:40px;
+    height: 20px;
+    padding-right: 12px;
+    margin-left: -20px;
+  }
+  
